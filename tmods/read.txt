@@ -1,0 +1,4 @@
+This is mods for Terraria. Put the .tmod in your tModLoader mod files folder and then after you boot the game up (tModLoader) you can enable it within mods
+and play it on tModLoader.
+
+I highly reccommend you look at the tModLoader wiki.
